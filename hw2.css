@@ -1,0 +1,14 @@
+body {
+    margin: 50px;
+    font-family: Helvetica, sans-serif;
+    font-size: 150%;
+}
+#ulid {
+    font-family: Helvetica, sans-serif;
+    background-color:red;
+}
+#ulid2 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    background-color:green;
+}
